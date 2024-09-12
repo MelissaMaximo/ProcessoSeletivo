@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faturamentos>
+    <faturamento>
+        <dia>2024-09-01</dia>
+        <valor>500</valor>
+    </faturamento>
+    <faturamento>
+        <dia>2024-09-02</dia>
+        <valor>0</valor>
+    </faturamento>
+    <faturamento>
+        <dia>2024-09-03</dia>
+        <valor>1500</valor>
+    </faturamento>
+    <faturamento>
+        <dia>2024-09-04</dia>
+        <valor>200</valor>
+    </faturamento>
+    <faturamento>
+        <dia>2024-09-05</dia>
+        <valor>0</valor>
+    </faturamento>
+    <faturamento>
+        <dia>2024-09-06</dia>
+        <valor>700</valor>
+    </faturamento>
+    <faturamento>
+        <dia>2024-09-07</dia>
+        <valor>0</valor>
+    </faturamento>
+    <faturamento>
+        <dia>2024-09-08</dia>
+        <valor>0</valor>
+    </faturamento>
+    <faturamento>
+        <dia>2024-09-09</dia>
+        <valor>1200</valor>
+    </faturamento>
+</faturamentos>
